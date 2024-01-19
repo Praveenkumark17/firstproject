@@ -5,3 +5,4 @@ d = 90
 
 print(a+b)
 print(b*c)
+print(d-c)
